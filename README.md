@@ -6,6 +6,7 @@
 
 - [Урок 1. Первая программа на C](lessons/01_first_program/students.md)
 - [Урок 2. Типы и байты](lessons/02_types_and_bytes/students.md)
+- [Урок 3. Условия](lessons/03_conditions/students.md)
 
 ## Установка
 
