@@ -18,7 +18,7 @@ gcc --version
 
 ## Шаг 2. Первая программа
 
-1. Создайте папку для курса и откройте в ней новый файл:
+1. Создайте каталог для курса и откройте в нём новый файл:
 
 ```
 mkdir -p ~/c-course && cd ~/c-course
@@ -52,14 +52,14 @@ gcc -std=c11 -Wall -Wextra -pedantic -o hello hello.c
 
 1. Откройте https://www.eclipse.org/downloads/packages/
 2. Скачайте **Eclipse IDE for C/C++ Developers** для Linux (файл `.tar.gz`).
-3. Распакуйте архив в домашнюю папку и запустите Eclipse:
+3. Распакуйте архив в домашнюю каталог и запустите Eclipse:
 
 ```
 cd ~ && tar -xzf ~/Downloads/eclipse-cpp-*-linux-gtk-x86_64.tar.gz
 ~/eclipse/eclipse
 ```
 
-4. Eclipse спросит, где хранить проекты, — оставьте предложенную папку.
+4. Eclipse спросит, где хранить проекты, — оставьте предложенную каталог.
 
 Чтобы создать в Eclipse новую программу:
 
