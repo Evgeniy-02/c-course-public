@@ -1,0 +1,2 @@
+Original: 1 2 3 4 5
+After shift left by 2: 3 4 5 1 2

@@ -1,0 +1,3 @@
+Array: 45 23 89 12 67 34
+Min value: 12
+Min index: 3

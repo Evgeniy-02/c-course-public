@@ -1,0 +1,2 @@
+Text: The quick brown fox jumps over the lazy dog
+Words: 9

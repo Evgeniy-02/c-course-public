@@ -1,0 +1,1 @@
+Sum of digits of 12345 = 15
